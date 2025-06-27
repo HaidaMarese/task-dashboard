@@ -33,7 +33,7 @@ task-dashboard/
 - Light/Dark mode toggle
 - Responsive UI
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - React + TypeScript
 - Vite
@@ -44,7 +44,7 @@ task-dashboard/
 ##  Run 
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-dashboard.git
+git clone https://github.com/HaidaMarese/task-dashboard.git
 cd task-dashboard
 npm install
 npm run dev
