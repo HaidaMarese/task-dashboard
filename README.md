@@ -3,26 +3,13 @@
 This is a task management dashboard built using **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **Heroicons**.
 
 ## Folder Structure
+src/
+  ├── components/
+  ├── types/
+  ├── utils/
+  ├── App.tsx
+  └── main.tsx
 
-task-dashboard/
-    ├── src/
-    │   ├── components/
-    │   │   ├── TaskList/
-    │   │   │   ├── TaskList.tsx
-    │   │   │   └── TaskItem.tsx
-    │   │   ├── TaskForm/
-    │   │   │   └── TaskForm.tsx
-    │   │   ├── TaskFilter/
-    │   │   │   └── TaskFilter.tsx
-    │   │   └── Dashboard/
-    │   │       └── Dashboard.tsx
-    │   ├── types/
-    │   │   └── index.ts
-    │   ├── utils/
-    │   │   └── taskUtils.ts
-    │   ├── App.tsx
-    ├── main.tsx
-    └── package.json
 
 ##  Features
 
