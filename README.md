@@ -44,7 +44,7 @@ task-dashboard/
 └── package.json
 ```
 
-# 📖 Reflection: Task Management Dashboard
+#  Reflection: Task Management Dashboard
 
 ## How I Implemented React and TypeScript Features
 
