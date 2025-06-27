@@ -1,4 +1,4 @@
-#  Task Management Dashboard
+#  SBA-Task Management Dashboard
 
 This is a task management dashboard built using **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **Heroicons**.
 
@@ -41,7 +41,12 @@ task-dashboard/
 - Heroicons
 - localStorage
 
-##  Run 
+##  Screenshot
+
+![image](https://github.com/user-attachments/assets/200190aa-1128-4488-b7a4-44bf6397b24d)
+
+
+##  Clone the Repository 
 
 ```bash
 git clone https://github.com/HaidaMarese/task-dashboard.git
