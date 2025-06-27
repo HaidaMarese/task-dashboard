@@ -46,7 +46,8 @@ task-dashboard/
 
 ##  Screenshot
 
-![image](https://github.com/user-attachments/assets/200190aa-1128-4488-b7a4-44bf6397b24d)
+![image](https://github.com/user-attachments/assets/3db83447-6d80-410e-8126-410461fa72a3)
+
 
 
 ##  Clone the Repository 
