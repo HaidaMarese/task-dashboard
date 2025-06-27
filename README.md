@@ -18,6 +18,7 @@ This is a task management dashboard built using **React**, **TypeScript**, **Vit
 - Tailwind CSS
 - Heroicons
 - localStorage
+- Node.js + npm
 
 ##  Project Structure
 
